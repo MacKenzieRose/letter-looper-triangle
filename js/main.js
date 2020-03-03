@@ -1,4 +1,4 @@
-var userInput = prompt("Type something you animal");
+var userInput = prompt('Type something you animal');
 
 var i;
 
